@@ -3,7 +3,10 @@
 {"key":"drpy_js_直播大全","name":"电视 | 直播大全[js]","protocol":"IPTV","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/live2mv_data1.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","protocol":"Alist","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/alist.json"},
 
-{"key":"drpy_js_wogg","name":"玩偶哥哥","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/wogg.js","searchable":1},
+{"key":"drpy_js_wogg","name":"玩偶哥哥","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/wogg.js","searchable":0},
+{"key":"drpy_js_woggxyz","name":"玩偶哥哥xyz","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/woggxyz.js","searchable":1},
+{"key":"drpy_js_woggb","name":"玩偶哥哥[备]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/woggb.js","searchable":0},
+{"key":"drpy_js_wobg","name":"玩偶表哥","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/wobg.js","searchable":1},
 {"key":"drpy_js_jojo","name":"JOJO","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/jojo.js","searchable":0},
 {"key":"drpy_js_gitcafe","name":"小纸条","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/gitcafe.js","searchable":1},
 
@@ -24,26 +27,15 @@
 {"key":"drpy_js_阿布影院","name":"影视 | 阿布影院[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/阿布影院.js","searchable":1},
 
 {"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/555电影[V2].js","searchable":1},
-{"key":"drpy_js_EMO蓝光[V2]","name":"影视 | EMO蓝光[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/EMO蓝光[V2].js","searchable":1},
 {"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/UM电影[V2].js","searchable":1},
-{"key":"drpy_js_宝片[V2]","name":"影视 | 宝片[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/宝片[V2].js","searchable":1},
 {"key":"drpy_js_咕噜[V2]","name":"影视 | 咕噜[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/咕噜[V2].js","searchable":1},
 {"key":"drpy_js_曲奇影视[V2]","name":"影视 | 曲奇影视[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/曲奇影视[V2].js","searchable":1},
-{"key":"drpy_js_北极狐[V2]","name":"影视 | 北极狐[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/北极狐[V2].js","searchable":1},
 {"key":"drpy_js_大米星球[V2]","name":"影视 | 大米星球[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/大米星球[V2].js","searchable":1},
-{"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞狗[V2].js","searchable":1},
 {"key":"drpy_js_思古影视[V2]","name":"影视 | 思古影视[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/思古影视[V2].js","searchable":1},
-{"key":"drpy_js_落攻阁影视[V2]","name":"影视 | 落攻阁影视[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/落攻阁影视[V2].js","searchable":1},
 {"key":"drpy_js_鑫鑫[V2]","name":"影视 | 鑫鑫[V2]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/鑫鑫[V2].js","searchable":1},
 
-{"key":"drpy_js_创艺影视","name":"影视 | 创艺影视[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/创艺影视.js","searchable":1},
-{"key":"drpy_js_飞兔影视","name":"影视 | 飞兔影视[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/飞兔影视.js","searchable":1},
-{"key":"drpy_js_光棍影院","name":"影视 | 光棍影院[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/光棍影院.js","searchable":1},
-{"key":"drpy_js_花猫TV","name":"影视 | 花猫TV[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/花猫TV.js","searchable":1},
 {"key":"drpy_js_开眼视频","name":"影视 | 开眼视频[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/开眼视频.js","searchable":1},
 {"key":"drpy_js_免费看","name":"影视 | 免费看[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/免费看.js","searchable":1},
-{"key":"drpy_js_朴樱影视","name":"影视 | 朴樱影视[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/朴樱影视.js","searchable":1},
-{"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/骚火电影.js","searchable":1},
 {"key":"drpy_js_私人影院","name":"影视 | 私人影院[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/私人影院.js","searchable":1},
 {"key":"drpy_js_小狗影院","name":"影视 | 小狗影院[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/小狗影院.js","searchable":1},
 
@@ -67,19 +59,14 @@
 {"key":"drpy_js_追剧迷","name":"影视 | 追剧迷[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/追剧迷.js","searchable":1},
 {"key":"drpy_js_吼吼[飞]","name":"起飞 | 吼吼[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/吼吼[飞].js","searchable":1},
 
-{"key":"量子资源","name":"🐝量子资源","protocol": "VOD","ext":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1},
 {"key":"U酷资源","name":"🐝U酷资源","protocol": "VOD","ext":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1},
-{"key":"映迷","name":"🐝映迷","protocol": "VOD","ext":"https://www.inmi.app/api.php/provide/vod/","searchable":1},
 {"key":"光速资源","name":"🐝光速资源","protocol": "VOD","ext":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1},
 {"key":"优质资源库","name":"🐝优质资源库","protocol": "VOD_XML","ext":"https://api.1080zyku.com/inc/api.php/provide/vod/","searchable":0},
 {"key":"红牛资源","name":"🐝红牛资源","protocol": "VOD","ext":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1},
 {"key":"快车资源","name":"🐝快车资源 ","protocol": "VOD","ext":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1},
-{"key":"闪电资源","name":"🐝闪电资源","protocol": "VOD","ext":"http://sdzyapi.com/api.php/provide/vod/","searchable":1},
 {"key":"飞速资源","name":"🐝飞速资源","protocol": "VOD","ext":"https://www.feisuzyapi.com/api.php/provide/vod/","searchable":1},
 {"key":"百度资源","name":"🐝百度资源","protocol": "VOD","ext":"https://api.apibdzy.com/api.php/provide/vod/","searchable":0},
 {"key":"天空资源","name":"🐝天空资源","protocol": "VOD","ext":"https://m3u8.tiankongapi.com/api.php/provide/vod/","searchable":1},
-{"key":"非凡资源","name":"🐝非凡资源","protocol": "VOD","ext":"https://cj.ffzyapi.com/api.php/provide/vod/","searchable":1},
-{"key":"影图资源","name":"🐝影图资源","protocol": "VOD","ext":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1},
 {"key":"新浪资源","name":"🐝新浪资源","protocol": "VOD","ext":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1},
 {"key":"飞速资源1","name":"🐝飞速资源1","protocol": "VOD","ext":"http://fszy1.com/api.php/provide/vod/","searchable":1},
 {"key":"樱花采集","name":"🐝樱花采集","protocol": "VOD","ext":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1},
@@ -107,4 +94,4 @@
 {"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/酷6网.js","searchable":1},
 {"key":"drpy_js_A8音乐","name":"MV | A8音乐[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/A8音乐.js","searchable":1}
 ],
-"extensions":["https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/lib/DRPY.zip","https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/lib/IPTV.zip","https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/lib/Alist_Ya.zip"]}
+"extensions":["https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/lib/DRPY.zip","https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/lib/IPTV.zip","https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/lib/Alist_Ya.zip?v3"]}
